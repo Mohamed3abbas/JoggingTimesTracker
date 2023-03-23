@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoggingTimesTrackerAPI", "JoggingTimesTrackerAPI\JoggingTimesTrackerAPI.csproj", "{49A5B43A-F429-49F2-AAF3-010A31A67D14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JoggingTimesTrackerDAL", "JoggingTimesTrackerDAL\JoggingTimesTrackerDAL.csproj", "{44025DB3-555C-49CA-B357-24C55079B5CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49A5B43A-F429-49F2-AAF3-010A31A67D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49A5B43A-F429-49F2-AAF3-010A31A67D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49A5B43A-F429-49F2-AAF3-010A31A67D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49A5B43A-F429-49F2-AAF3-010A31A67D14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{44025DB3-555C-49CA-B357-24C55079B5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44025DB3-555C-49CA-B357-24C55079B5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44025DB3-555C-49CA-B357-24C55079B5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44025DB3-555C-49CA-B357-24C55079B5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EA88EB84-AE2F-4346-A9D9-2209BF67B997}
+	EndGlobalSection
+EndGlobal
